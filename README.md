@@ -3,7 +3,6 @@
 is an Android-based mobile application designed to detect and provide preliminary insights into common skin diseases using **Machine Learning (ML)** and **Image Recognition**.  
 It leverages **MobileNetV2** trained on dermatology datasets and deployed with **TensorFlow Lite**, ensuring real-time, offline predictions even on mid-range smartphones.
 
----
 OUTPUT:
 
 # Register Page	
