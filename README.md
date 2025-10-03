@@ -1,5 +1,4 @@
-
-#SkinSense 
+# SkinSense 
 
 is an Android-based mobile application designed to detect and provide preliminary insights into common skin diseases using **Machine Learning (ML)** and **Image Recognition**.  
 It leverages **MobileNetV2** trained on dermatology datasets and deployed with **TensorFlow Lite**, ensuring real-time, offline predictions even on mid-range smartphones.
@@ -7,38 +6,38 @@ It leverages **MobileNetV2** trained on dermatology datasets and deployed with *
 ---
 OUTPUT:
 
-#Register Page	
+# Register Page	
 
 <img width="568" height="1263" alt="image" src="https://github.com/user-attachments/assets/f65c5e9d-5871-4983-add9-5964c50a4277" />
 
 
-#Login Page
+# Login Page
 
 <img width="478" height="1063" alt="image" src="https://github.com/user-attachments/assets/235ba756-c53e-4470-9425-a95bf2800dc2" />
 	 
 
-#Home Page 	 				
+# Home Page 	 				
 
 <img width="584" height="1299" alt="image" src="https://github.com/user-attachments/assets/fff86f74-1622-4244-8557-8125db0ac5aa" />
 
 
-#Camara Fragment
+# Camara Fragment
 
 <img width="547" height="1216" alt="image" src="https://github.com/user-attachments/assets/46134ed4-3333-45c5-903d-8f22e4107c35" />
 
 
-#Storage of records
+# Storage of records
 
 <img width="484" height="1076" alt="image" src="https://github.com/user-attachments/assets/8e593416-5008-4b93-9c88-aaed6cec4864" />
 <img width="446" height="1060" alt="image" src="https://github.com/user-attachments/assets/ad9b4402-b55c-44ac-b411-d70eb42a8ba0" />
 
 
-#Medication page
+# Medication page
 
 <img width="548" height="1205" alt="image" src="https://github.com/user-attachments/assets/cc5ea22e-f6c4-4754-9a9f-f6c9b353b0eb" />
 
 
-#Profile page
+# Profile page
 
 <img width="529" height="1176" alt="image" src="https://github.com/user-attachments/assets/e7c93112-829c-4b77-b762-f05ba48cc3fb" />
 
